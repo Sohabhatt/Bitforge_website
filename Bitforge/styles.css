@@ -563,7 +563,7 @@ body {
 .contact-detail {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 20px;
   padding: 20px;
   background: var(--bg-secondary);
   border: 1px solid var(--border-subtle);
@@ -781,6 +781,7 @@ svg {
   stroke-linejoin: round;
   fill: none;
 }
+
 
 /* Responsive Design */
 @media (max-width: 1024px) {
